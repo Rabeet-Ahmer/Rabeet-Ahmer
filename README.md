@@ -32,14 +32,6 @@ Here are some of my notable projects:
 
 Welcome to **Morent**, a sleek and modern car rental platform designed to make renting vehicles effortless, enjoyable, and stylish. Whether you're looking for a luxurious ride or a practical vehicle for your next adventure, Morent has you covered!  
 
-## ✨ Why Morent?  
-- **🚀 Seamless User Experience**: A visually stunning, responsive design ensures smooth navigation across all devices.  
-- **🌟 Modern UI**: Beautiful, intuitive layouts that are crafted with user convenience in mind.  
-- **💎 Vehicle Variety**: Explore a curated selection of vehicles:
-  - **Sports Cars** for thrill-seekers (Koenigsegg, Nissan GT-R)  
-  - **Luxury Sedans** for elegance (Rolls-Royce)  
-  - **SUVs and Hatchbacks** for family trips and daily needs  
-
 ## 🎨 Design Highlights:  
 - **Dynamic Car Cards**: Display detailed vehicle specifications, including fuel type, transmission, seating capacity, and daily rental rates.  
 - **Interactive Booking Workflow**: Easily select pick-up and drop-off details with an engaging step-by-step process.  
