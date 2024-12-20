@@ -95,7 +95,7 @@ To run this project locally:
 .
 
 
-- # 💼[Rabeet Ahmer's Developer Portfolio:  
+- # 💼Rabeet Ahmer's Developer Portfolio:  
 
 Welcome to my personal portfolio website, showcasing my journey as a frontend developer. This platform highlights my skills, projects, and the technologies I specialize in.
 
