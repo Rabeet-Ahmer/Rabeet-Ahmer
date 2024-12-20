@@ -32,11 +32,6 @@ Here are some of my notable projects:
 
 Welcome to **Morent**, a sleek and modern car rental platform designed to make renting vehicles effortless, enjoyable, and stylish. Whether you're looking for a luxurious ride or a practical vehicle for your next adventure, Morent has you covered!  
 
-## 🎨 Design Highlights:  
-- **Dynamic Car Cards**: Display detailed vehicle specifications, including fuel type, transmission, seating capacity, and daily rental rates.  
-- **Interactive Booking Workflow**: Easily select pick-up and drop-off details with an engaging step-by-step process.  
-- **Responsive Design**: Enjoy an optimized experience on mobile, tablet, and desktop devices.  
-
 ## 🔧 Built With:  
 This project is powered by cutting-edge technologies to ensure both performance and maintainability:  
 - **Next.js**: For blazing-fast rendering and routing.  
@@ -51,12 +46,6 @@ Experience the platform live at: [Morent - Car Rental Platform](https://hackatho
 - # 🌤️Weather Widget App:
 
 Welcome to the **Weather Widget App**, your go-to solution for real-time weather updates presented through a sleek and responsive interface. This application is designed to provide accurate weather information at your fingertips, ensuring you're always prepared for the day ahead.
-
-## ✨ Features
-
-- **Real-Time Weather Data**: Stay informed with up-to-date weather conditions and forecasts.
-- **Responsive Design**: Enjoy a seamless experience across all devices, whether on desktop or mobile.
-- **User-Friendly Interface**: Navigate effortlessly through intuitive layouts and controls.
 
 ## 🎨 Design Highlights
 
@@ -96,12 +85,6 @@ Welcome to my personal portfolio website, showcasing my journey as a frontend de
 - **Project Showcase**: Explore a curated selection of my work, complete with descriptions, technologies used, and live demos.
 - **Responsive Design**: Enjoy a seamless experience across various devices, ensuring accessibility and user-friendliness.
 - **Interactive UI**: Navigate through an engaging and intuitive interface that reflects my design philosophy.
-
-## 🎨 Design Highlights
-
-- **Modern Aesthetics**: A clean and minimalist design that emphasizes content and usability.
-- **Dynamic Animations**: Subtle animations enhance user interaction without compromising performance.
-- **Dark Mode**: Experience the portfolio in both light and dark themes, catering to user preferences.
 
 ## 🔧 Built With
 
