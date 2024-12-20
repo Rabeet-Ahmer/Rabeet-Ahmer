@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 
 Here are some of my notable projects:
 
-- ** # 🚗[Morent - Your Ultimate Car Rental Solution](https://github.com/Rabeet-Ahmer/Hackathon-2.0)**:
+- # 🚗Morent - Your Ultimate Car Rental Solution:
 
 Welcome to **Morent**, a sleek and modern car rental platform designed to make renting vehicles effortless, enjoyable, and stylish. Whether you're looking for a luxurious ride or a practical vehicle for your next adventure, Morent has you covered!  
 
@@ -56,7 +56,7 @@ This project is powered by cutting-edge technologies to ensure both performance 
 Experience the platform live at: [Morent - Car Rental Platform](https://hackathon-2-five.vercel.app/)  
 
 
-- ** # 🌤️[Weather Widget App](https://github.com/Rabeet-Ahmer/Weather-widget-app)**:
+- # 🌤️Weather Widget App:
 
 Welcome to the **Weather Widget App**, your go-to solution for real-time weather updates presented through a sleek and responsive interface. This application is designed to provide accurate weather information at your fingertips, ensuring you're always prepared for the day ahead.
 
@@ -95,7 +95,7 @@ To run this project locally:
 .
 
 
-- ** # 💼[Rabeet Ahmer's Developer Portfolio](https://github.com/Rabeet-Ahmer/My-Portfolio)**:  
+- # 💼[Rabeet Ahmer's Developer Portfolio:  
 
 Welcome to my personal portfolio website, showcasing my journey as a frontend developer. This platform highlights my skills, projects, and the technologies I specialize in.
 
